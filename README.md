@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CayllahuaPedro
 - 👀 I’m interested in learning code, math, physics and nerdy stuff
-- 🌱 I’m currently learning python development and data science 
+- 🌱 I’m currently learning web development and data science 
 - 💞️ I’m looking to collaborate on online projects
 - 📫 How to reach me: just email me to cayllahuapedro@gmail.com
 
